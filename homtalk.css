@@ -4,7 +4,7 @@
 body {
 	color:yellow;
 	font-family: 'Alef', sans-serif;
-	font-size:22px;
+	font-size:23px;
 }
 a:link,
 a:visited {
@@ -16,7 +16,7 @@ a:hover {
 	text-decoration:none;
 }
 h2 {
-	font-size:1.29em;
+	font-size:1.30em;
 	font-weight:normal;
 	margin:10px 15px 15px 10px;
 	text-align:left;
