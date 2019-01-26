@@ -4,4 +4,5 @@ line c on new branch
 my new line
 line 5
 line 6
+line 7
 
