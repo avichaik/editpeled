@@ -1,3 +1,4 @@
 line a
 line b
 line c on new branch
+my new line
