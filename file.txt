@@ -2,5 +2,6 @@ line a
 line b
 line c on new branch
 my new line
-line 5.1
+line 5
+line 6
 
